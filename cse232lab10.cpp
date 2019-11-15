@@ -45,3 +45,4 @@ int main() {
   std::cout << "\nmedian = " << median << "\n";
 }
 
+std::cout << "hello" << endl;
